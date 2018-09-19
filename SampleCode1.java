@@ -1,2 +1,2 @@
 Test Code
-Sysout "Hello Java"
+System.out.println("Hello Java");
