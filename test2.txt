@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 changing string for test2.txt from Master
-=======
-hello test2 file
->>>>>>> Version1
